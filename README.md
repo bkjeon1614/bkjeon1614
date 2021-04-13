@@ -1,6 +1,6 @@
 ### Profile 😄
-- ⚡ Tech Blog Tistory: [Tech Blog Badge - tistory](https://bkjeon1614.tistory.com/)
-- ⚡ Tech Blog Github: [Tech Blog Badge - tistory](https://bkjeon1614.github.io/blog/)
+- ⚡ [Tech Blog - Tistory](https://bkjeon1614.tistory.com/)
+- ⚡ [Tech Blog - Github](https://bkjeon1614.github.io/blog/)
   
 **Languages and Tools:**  
 
