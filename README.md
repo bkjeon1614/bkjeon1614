@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Tech Blog Badge - tistory](https://img.shields.io/badge/blog-tistory-green)](https://bkjeon1614.tistory.com/)  
-[![Tech Blog Badge - github](https://img.shields.io/badge/blog-tistory-black)](https://bkjeon1614.github.io/blog/)  
+[![Tech Blog Badge - github](https://img.shields.io/badge/blog-github-black)](https://bkjeon1614.github.io/blog/)  
 
 <!--
 **bkjeon1614/bkjeon1614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
