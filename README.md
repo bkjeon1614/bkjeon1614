@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://bkjeon1614.github.io/blog/)
+[![tistory](https://img.shields.io/badge/blog-green)](https://bkjeon1614.tistory.com/)
+[![Tech Blog Badge - github](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://bkjeon1614.github.io/blog/)
 
 <!--
 **bkjeon1614/bkjeon1614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
